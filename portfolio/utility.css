@@ -1,0 +1,11 @@
+.purple {
+  color: rgb(104, 100, 172);
+}
+
+main hr {
+  max-width: 80vw;
+  margin: 0px 10vw;
+  border: 0px;
+  height: 1.5px;
+  background-color: rgba(161, 157, 223, 0.438);
+}
