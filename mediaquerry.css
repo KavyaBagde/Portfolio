@@ -1,0 +1,80 @@
+.nav-bar{
+    flex-direction: column;
+    justify-content: unset;
+}
+
+nav {
+    height: 11vh;
+}
+
+.sf-box{
+    flex-direction: column-reverse;
+}
+
+.firstSection{
+    height: unset;
+}
+
+.firstSection .box {
+    width: 85vw;
+    height: 40vh;
+}
+
+.secondSection .s2-box {
+    flex-direction: column;
+}
+
+.secondSection {
+    max-width: none;
+    margin: 25px 20px;
+}
+
+.secondSection .s2-box .s2-left {
+    width: unset;
+}
+
+.secondSection .s2-box .s2-left .image {
+    width: 90vw;
+    height: 31vh;
+}
+
+.secondSection .s2-box .s2-right {
+     display: unset ;
+}
+
+.secondSection .s2-box .box{
+    width: unset;
+    height: 45vh;
+    margin-bottom: 1rem;
+}
+
+.secondSection .s2-box2 {
+    flex-direction: column;
+}
+
+.secondSection .s2-box2 .box {
+    width: unset;
+    height: 45vh;
+}
+
+.secondSection .s2-box2 .s2-right{
+    display: unset;
+}
+
+.secondSection .s2-box3{
+    flex-direction: column;
+}
+
+.secondSection .s2-box3 .box{
+    width: unset;
+    height: 40vh;
+}
+
+#back-to-top{
+    text-align: center;
+}
+
+.input-box {
+    flex-direction: column;
+    height: 30vh;
+}
