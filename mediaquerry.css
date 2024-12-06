@@ -1,10 +1,12 @@
+@media (max-width: 550px){
+
 .nav-bar{
     flex-direction: column;
     justify-content: unset;
 }
 
 nav {
-    height: 11vh;
+    height: 15vh;
 }
 
 .sf-box{
@@ -17,7 +19,7 @@ nav {
 
 .firstSection .box {
     width: 85vw;
-    height: 40vh;
+    height: 50vh;
 }
 
 .secondSection .s2-box {
@@ -35,7 +37,7 @@ nav {
 
 .secondSection .s2-box .s2-left .image {
     width: 90vw;
-    height: 31vh;
+    height: 40vh;
 }
 
 .secondSection .s2-box .s2-right {
@@ -76,5 +78,6 @@ nav {
 
 .input-box {
     flex-direction: column;
-    height: 30vh;
+    height: 35vh;
+}
 }
